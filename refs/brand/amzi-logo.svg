@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210" width="1040" height="420">
+  <title>AMZI Motor Co. logo concept v1</title>
+  <rect width="520" height="210" fill="#f2f0e8"/>
+  <!-- emblem: faceted hexagon with X, echoing the grille vent pattern -->
+  <g transform="translate(0,5)">
+    <polygon points="60,28 102,50 102,130 60,152 18,130 18,50" fill="none" stroke="#1c1f1a" stroke-width="8" stroke-linejoin="miter"/>
+    <polygon points="38,62 52,62 60,78 68,62 82,62 68,90 82,118 68,118 60,102 52,118 38,118 52,90" fill="#e8a317"/>
+  </g>
+  <!-- wordmark -->
+  <g fill="#1c1f1a">
+    <path fill-rule="evenodd" d="M130,145 L160,45 L180,45 L210,145 L192,145 L185,123 L155,123 L148,145 Z M159,107 L181,107 L170,71 Z"/>
+    <path d="M230,145 L230,45 L250,45 L275,100 L300,45 L320,45 L320,145 L302,145 L302,83 L280,133 L270,133 L248,83 L248,145 Z"/>
+    <path d="M340,45 L420,45 L420,61 L365,129 L420,129 L420,145 L340,145 L340,129 L395,61 L340,61 Z"/>
+    <rect x="440" y="45" width="20" height="100"/>
+  </g>
+  <rect x="130" y="160" width="330" height="4" fill="#e8a317"/>
+  <text x="130" y="192" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" letter-spacing="15.5" fill="#1c1f1a">MOTOR CO.</text>
+</svg>
